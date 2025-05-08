@@ -10,3 +10,6 @@
 - 🌱  I’m learning **Backend  & Software Development**
 - ✍🏻  I love using Software and new technologies to solve problems.
 - 📚  Experienced with ASP.NET and have built some good projects using it.
+- 📫 How to reach me **azzashahen2004@gmail.com**
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1j4lhKxVthVdMlRUHqIGiidQkDW9t09yr/view" target="blank" >Resume</a>
+- ⚡ Fun fact **I never give up**
